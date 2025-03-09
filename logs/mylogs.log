@@ -1,0 +1,366 @@
+2025-03-08T18:12:45.937Z [INFO] : cacheKey for Redis Data tasks:67be069816c13e9a8d75a562
+2025-03-08T18:14:01.179Z [ERROR] : cacheKey for Redis Data tasks:67be069816c13e9a8d75a562
+
+2025-03-09T16:02:57.974Z [INFO] : cacheKey for Redis Data tasks:67be069816c13e9a8d75a562
+2025-03-09T16:08:58.366Z [INFO] : Result of Delete Task for UserId: undefined are [object Object]
+2025-03-09T16:08:58.368Z [INFO] : Deleted Data From cache for UserId: undefined
+2025-03-09T16:48:05.387Z [INFO] : cacheKey for Redis Data tasks:67be069816c13e9a8d75a562
+2025-03-09T17:11:48.697Z [INFO] : Result of Delete Task for UserId: undefined are [object Object]
+2025-03-09T17:11:48.701Z [INFO] : Deleted Data From cache for UserId: undefined
+2025-03-09T17:12:12.487Z [ERROR] : Validation Error for getTask: "userId" is required
+2025-03-09T17:13:43.495Z [INFO] : Validating Data For Get Request: [object Object]
+2025-03-09T17:13:43.499Z [ERROR] : Validation Error for getTask: "userId" is required
+2025-03-09T17:16:44.519Z [INFO] : Validating Data For Get Request: [object Object]
+2025-03-09T17:16:44.524Z [ERROR] : Validation Error for getTask: "userId" is required
+2025-03-09T17:17:12.072Z [INFO] : Validating Data For Get Request: [object Object]
+2025-03-09T17:17:12.078Z [ERROR] : Validation Error for getTask: "user-agent" is not allowed
+2025-03-09T17:23:19.579Z [INFO] : Validating Data For Get Request: [object Object]
+2025-03-09T17:23:19.583Z [INFO] : cacheKey for Redis Data tasks:67be069816c13e9a8d75a562
+2025-03-09T17:27:18.304Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:28:00.805Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:28:33.388Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:28:46.061Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:28:48.838Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:28:55.006Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:29:01.960Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:29:08.988Z [INFO] : 
+2025-03-09T17:29:08.997Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:29:15.424Z [INFO] : Connected 
+2025-03-09T17:29:15.433Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:29:18.959Z [INFO] : Connected To Mongo
+2025-03-09T17:29:18.979Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:29:20.642Z [INFO] : Connected To MongoDB
+2025-03-09T17:29:20.652Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:29:25.575Z [INFO] : Connected to MongoDB
+2025-03-09T17:29:25.590Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:29:27.575Z [INFO] : Connected to MongoDB
+2025-03-09T17:29:27.590Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:29:34.893Z [INFO] : Connected to MongoDB
+2025-03-09T17:29:34.902Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:29:49.164Z [INFO] : Connected to MongoDB
+2025-03-09T17:29:49.173Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:29:57.647Z [INFO] : Connected to MongoDB
+2025-03-09T17:29:57.655Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:30:02.995Z [INFO] : Connected to MongoDB
+2025-03-09T17:30:03.005Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:30:07.815Z [INFO] : Connected to MongoDB
+2025-03-09T17:30:07.824Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:30:10.186Z [INFO] : Connected to MongoDB
+2025-03-09T17:30:10.195Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:30:11.816Z [INFO] : Connected to MongoDB
+2025-03-09T17:30:11.825Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:30:17.960Z [INFO] : Connected to MongoDB
+2025-03-09T17:30:17.971Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:30:24.318Z [INFO] : Connected to MongoDB
+2025-03-09T17:30:24.327Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:30:25.511Z [INFO] : Connected to MongoDB
+2025-03-09T17:30:25.521Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:30:26.816Z [INFO] : Connected to MongoDB
+2025-03-09T17:30:26.827Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:30:29.701Z [INFO] : Connected to MongoDB
+2025-03-09T17:30:29.717Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:30:31.769Z [INFO] : Connected to MongoDB
+2025-03-09T17:30:31.782Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:31:18.147Z [INFO] : Connected to MongoDB
+2025-03-09T17:31:18.156Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:31:49.655Z [INFO] : Connected to MongoDB
+2025-03-09T17:31:55.159Z [INFO] : Connected to MongoDB
+2025-03-09T17:32:01.452Z [INFO] : Connected to MongoDB
+2025-03-09T17:32:09.659Z [INFO] : Connected to MongoDB
+2025-03-09T17:32:09.667Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:32:20.372Z [INFO] : Connected to MongoDB
+2025-03-09T17:32:20.382Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:32:22.593Z [INFO] : Connected to MongoDB
+2025-03-09T17:32:22.597Z [INFO] : 
+2025-03-09T17:32:22.603Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:32:29.101Z [INFO] : Connected to MongoDB
+2025-03-09T17:32:29.106Z [INFO] : Connected to Redis
+2025-03-09T17:32:29.109Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:32:42.877Z [INFO] : Connected to MongoDB
+2025-03-09T17:32:42.882Z [INFO] : Connected to Redis
+2025-03-09T17:32:42.886Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:32:53.685Z [INFO] : Connected to MongoDB
+2025-03-09T17:32:53.689Z [INFO] : Connected to Redis
+2025-03-09T17:32:53.693Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:32:55.453Z [INFO] : Connected to MongoDB
+2025-03-09T17:32:55.458Z [INFO] : Connected to Redis
+2025-03-09T17:32:55.467Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:33:00.226Z [INFO] : Connected to MongoDB
+2025-03-09T17:33:00.230Z [INFO] : Connected to Redis
+2025-03-09T17:33:00.235Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:33:09.363Z [INFO] : Connected to MongoDB
+2025-03-09T17:33:09.369Z [INFO] : Connected to Redis
+2025-03-09T17:33:09.384Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:33:11.116Z [INFO] : Connected to MongoDB
+2025-03-09T17:33:11.127Z [INFO] : Connected to Redis
+2025-03-09T17:33:11.133Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:33:12.998Z [INFO] : Connected to MongoDB
+2025-03-09T17:33:13.003Z [INFO] : Connected to Redis
+2025-03-09T17:33:13.007Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:33:18.844Z [INFO] : Connected to MongoDB
+2025-03-09T17:33:18.848Z [INFO] : Connected to Redis
+2025-03-09T17:33:18.854Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:34:05.880Z [INFO] : Connected to MongoDB
+2025-03-09T17:34:05.884Z [INFO] : Connected to Redis
+2025-03-09T17:34:05.889Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:34:08.211Z [INFO] : Connected to MongoDB
+2025-03-09T17:34:08.215Z [INFO] : Connected to Redis
+2025-03-09T17:34:08.220Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:34:13.733Z [INFO] : Connected to MongoDB
+2025-03-09T17:34:13.743Z [INFO] : Connected to Redis
+2025-03-09T17:34:13.748Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:34:15.927Z [INFO] : Connected to MongoDB
+2025-03-09T17:34:15.931Z [INFO] : Connected to Redis
+2025-03-09T17:34:15.936Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:34:21.072Z [INFO] : Connected to MongoDB
+2025-03-09T17:34:21.092Z [INFO] : Connected to Redis
+2025-03-09T17:34:21.113Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:34:22.202Z [INFO] : Connected to MongoDB
+2025-03-09T17:34:22.207Z [INFO] : Connected to Redis
+2025-03-09T17:34:22.211Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:34:28.817Z [INFO] : Connected to MongoDB
+2025-03-09T17:34:28.822Z [INFO] : Connected to Redis
+2025-03-09T17:34:28.827Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:34:37.196Z [INFO] : Connected to MongoDB
+2025-03-09T17:34:37.202Z [INFO] : Connected to Redis
+2025-03-09T17:34:37.206Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:34:45.160Z [INFO] : Connected to MongoDB
+2025-03-09T17:34:45.164Z [INFO] : Connected to Redis
+2025-03-09T17:34:45.168Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:34:49.652Z [INFO] : Connected to MongoDB
+2025-03-09T17:34:49.658Z [INFO] : Connected to Redis
+2025-03-09T17:34:49.664Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:34:57.088Z [INFO] : Connected to MongoDB
+2025-03-09T17:34:57.092Z [INFO] : Connected to Redis
+2025-03-09T17:34:57.097Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:34:59.977Z [INFO] : Connected to MongoDB
+2025-03-09T17:34:59.981Z [INFO] : Connected to Redis
+2025-03-09T17:34:59.985Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:35:06.090Z [INFO] : Connected to MongoDB
+2025-03-09T17:35:06.098Z [INFO] : Connected to Redis
+2025-03-09T17:35:06.104Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:35:07.526Z [INFO] : Connected to MongoDB
+2025-03-09T17:35:07.535Z [INFO] : Connected to Redis
+2025-03-09T17:35:07.540Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:35:10.609Z [INFO] : Connected to MongoDB
+2025-03-09T17:35:10.614Z [INFO] : Connected to Redis
+2025-03-09T17:35:10.619Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:35:16.385Z [INFO] : Connected to MongoDB
+2025-03-09T17:35:16.390Z [INFO] : Connected to Redis
+2025-03-09T17:35:16.395Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:35:19.178Z [INFO] : Connected to MongoDB
+2025-03-09T17:35:19.183Z [INFO] : Connected to Redis
+2025-03-09T17:35:19.188Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:35:21.808Z [INFO] : Connected to MongoDB
+2025-03-09T17:35:21.816Z [INFO] : Connected to Redis
+2025-03-09T17:35:21.822Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:35:23.657Z [INFO] : Connected to MongoDB
+2025-03-09T17:35:23.674Z [INFO] : Connected to Redis
+2025-03-09T17:35:23.680Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:35:49.292Z [INFO] : Connected to MongoDB
+2025-03-09T17:35:49.297Z [INFO] : Connected to Redis
+2025-03-09T17:35:49.301Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:35:52.222Z [INFO] : Connected to MongoDB
+2025-03-09T17:35:52.227Z [INFO] : Connected to Redis
+2025-03-09T17:35:52.231Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:35:56.587Z [INFO] : Connected to MongoDB
+2025-03-09T17:35:56.592Z [INFO] : Connected to Redis
+2025-03-09T17:35:56.596Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:36:00.442Z [INFO] : Connected to MongoDB
+2025-03-09T17:36:00.446Z [INFO] : Connected to Redis
+2025-03-09T17:36:00.464Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:36:06.437Z [INFO] : Connected to MongoDB
+2025-03-09T17:36:06.441Z [INFO] : Connected to Redis
+2025-03-09T17:36:06.446Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:36:18.140Z [INFO] : Connected to MongoDB
+2025-03-09T17:36:18.151Z [INFO] : Connected to Redis
+2025-03-09T17:36:18.158Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:36:20.257Z [INFO] : Connected to MongoDB
+2025-03-09T17:36:20.262Z [INFO] : Connected to Redis
+2025-03-09T17:36:20.266Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:36:34.936Z [INFO] : Connected to MongoDB
+2025-03-09T17:36:34.941Z [INFO] : Connected to Redis
+2025-03-09T17:36:34.944Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:36:36.198Z [INFO] : Connected to MongoDB
+2025-03-09T17:36:36.202Z [INFO] : Connected to Redis
+2025-03-09T17:36:36.206Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:36:38.946Z [INFO] : Connected to MongoDB
+2025-03-09T17:36:38.950Z [INFO] : Connected to Redis
+2025-03-09T17:36:38.954Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:36:49.161Z [INFO] : Connected to MongoDB
+2025-03-09T17:36:49.165Z [INFO] : Connected to Redis
+2025-03-09T17:36:49.169Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:36:52.803Z [INFO] : Connected to MongoDB
+2025-03-09T17:36:52.807Z [INFO] : Connected to Redis
+2025-03-09T17:36:52.811Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:36:56.278Z [INFO] : Connected to MongoDB
+2025-03-09T17:36:56.282Z [INFO] : Connected to Redis
+2025-03-09T17:36:56.286Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:36:57.929Z [INFO] : Connected to MongoDB
+2025-03-09T17:36:57.934Z [INFO] : Connected to Redis
+2025-03-09T17:36:57.938Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:37:04.624Z [INFO] : Connected to MongoDB
+2025-03-09T17:37:04.631Z [INFO] : Connected to Redis
+2025-03-09T17:37:04.639Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:37:05.810Z [INFO] : Connected to MongoDB
+2025-03-09T17:37:05.814Z [INFO] : Connected to Redis
+2025-03-09T17:37:05.818Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:37:07.441Z [INFO] : Connected to MongoDB
+2025-03-09T17:37:07.450Z [INFO] : Connected to Redis
+2025-03-09T17:37:07.457Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:37:08.863Z [INFO] : Connected to MongoDB
+2025-03-09T17:37:08.867Z [INFO] : Connected to Redis
+2025-03-09T17:37:08.871Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:37:11.085Z [INFO] : Connected to MongoDB
+2025-03-09T17:37:11.090Z [INFO] : Connected to Redis
+2025-03-09T17:37:11.094Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:37:15.338Z [INFO] : Connected to MongoDB
+2025-03-09T17:37:15.343Z [INFO] : Connected to Redis
+2025-03-09T17:37:15.347Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:37:18.953Z [INFO] : Connected to MongoDB
+2025-03-09T17:37:18.958Z [INFO] : Connected to Redis
+2025-03-09T17:37:18.962Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:37:26.372Z [INFO] : Connected to MongoDB
+2025-03-09T17:37:26.376Z [INFO] : Connected to Redis
+2025-03-09T17:37:26.384Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:37:29.143Z [INFO] : Connected to MongoDB
+2025-03-09T17:37:29.148Z [INFO] : Connected to Redis
+2025-03-09T17:37:29.151Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:37:33.329Z [INFO] : Connected to MongoDB
+2025-03-09T17:37:33.334Z [INFO] : Connected to Redis
+2025-03-09T17:37:33.340Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:37:34.350Z [INFO] : Connected to MongoDB
+2025-03-09T17:37:34.355Z [INFO] : Connected to Redis
+2025-03-09T17:37:34.360Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:37:41.261Z [INFO] : Connected to MongoDB
+2025-03-09T17:37:41.266Z [INFO] : Connected to Redis
+2025-03-09T17:37:41.270Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:37:44.773Z [INFO] : Connected to MongoDB
+2025-03-09T17:37:44.778Z [INFO] : Connected to Redis
+2025-03-09T17:37:44.784Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:37:59.871Z [INFO] : Connected to MongoDB
+2025-03-09T17:37:59.877Z [INFO] : Connected to Redis
+2025-03-09T17:37:59.884Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:38:46.973Z [INFO] : Connected to MongoDB
+2025-03-09T17:38:46.977Z [INFO] : Connected to Redis
+2025-03-09T17:38:46.981Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:38:59.987Z [INFO] : Connected to MongoDB
+2025-03-09T17:38:59.992Z [INFO] : Connected to Redis
+2025-03-09T17:38:59.997Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:03.777Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:03.782Z [INFO] : Connected to Redis
+2025-03-09T17:39:03.787Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:09.888Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:09.895Z [INFO] : Connected to Redis
+2025-03-09T17:39:09.900Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:14.303Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:14.308Z [INFO] : Connected to Redis
+2025-03-09T17:39:14.312Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:15.836Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:15.840Z [INFO] : Connected to Redis
+2025-03-09T17:39:15.844Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:19.496Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:19.500Z [INFO] : Connected to Redis
+2025-03-09T17:39:19.505Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:28.972Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:28.980Z [INFO] : Connected to Redis
+2025-03-09T17:39:28.988Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:31.276Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:31.284Z [INFO] : Connected to Redis
+2025-03-09T17:39:31.289Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:33.368Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:33.372Z [INFO] : Connected to Redis
+2025-03-09T17:39:33.378Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:38.176Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:38.181Z [INFO] : Connected to Redis
+2025-03-09T17:39:38.185Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:42.256Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:42.262Z [INFO] : Connected to Redis
+2025-03-09T17:39:42.270Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:44.103Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:44.107Z [INFO] : Connected to Redis
+2025-03-09T17:39:44.111Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:46.253Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:46.257Z [INFO] : Connected to Redis
+2025-03-09T17:39:46.261Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:51.179Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:51.192Z [INFO] : Connected to Redis
+2025-03-09T17:39:51.197Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:54.216Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:54.221Z [INFO] : Connected to Redis
+2025-03-09T17:39:54.230Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:56.609Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:56.613Z [INFO] : Connected to Redis
+2025-03-09T17:39:56.617Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:39:57.862Z [INFO] : Connected to MongoDB
+2025-03-09T17:39:57.867Z [INFO] : Connected to Redis
+2025-03-09T17:39:57.871Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:40:00.405Z [INFO] : Connected to MongoDB
+2025-03-09T17:40:00.409Z [INFO] : Connected to Redis
+2025-03-09T17:40:00.413Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:40:06.470Z [INFO] : Connected to MongoDB
+2025-03-09T17:40:06.478Z [INFO] : Connected to Redis
+2025-03-09T17:40:06.482Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:40:37.221Z [INFO] : Connected to MongoDB
+2025-03-09T17:40:37.228Z [INFO] : Connected to Redis
+2025-03-09T17:40:37.236Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:40:39.239Z [INFO] : Connected to MongoDB
+2025-03-09T17:40:39.247Z [INFO] : Connected to Redis
+2025-03-09T17:40:39.252Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:40:42.712Z [INFO] : Connected to MongoDB
+2025-03-09T17:40:42.718Z [INFO] : Connected to Redis
+2025-03-09T17:40:42.732Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:40:50.475Z [INFO] : Connected to MongoDB
+2025-03-09T17:40:50.481Z [INFO] : Connected to Redis
+2025-03-09T17:40:50.491Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:40:53.049Z [INFO] : Connected to MongoDB
+2025-03-09T17:40:53.058Z [INFO] : Connected to Redis
+2025-03-09T17:40:53.067Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:40:59.827Z [INFO] : Connected to MongoDB
+2025-03-09T17:40:59.838Z [INFO] : Connected to Redis
+2025-03-09T17:40:59.851Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:41:01.815Z [INFO] : Connected to MongoDB
+2025-03-09T17:41:01.821Z [INFO] : Connected to Redis
+2025-03-09T17:41:01.827Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:41:05.983Z [INFO] : Connected to MongoDB
+2025-03-09T17:41:05.987Z [INFO] : Connected to Redis
+2025-03-09T17:41:05.992Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:41:08.613Z [INFO] : Connected to MongoDB
+2025-03-09T17:41:08.618Z [INFO] : Connected to Redis
+2025-03-09T17:41:08.626Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:41:11.415Z [INFO] : Connected to MongoDB
+2025-03-09T17:41:11.420Z [INFO] : Connected to Redis
+2025-03-09T17:41:11.423Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:41:33.630Z [INFO] : Connected to MongoDB
+2025-03-09T17:41:33.634Z [INFO] : Connected to Redis
+2025-03-09T17:41:33.639Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:41:39.568Z [INFO] : Connected to MongoDB
+2025-03-09T17:41:39.573Z [INFO] : Connected to Redis
+2025-03-09T17:41:39.579Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:41:52.349Z [INFO] : Connected to MongoDB
+2025-03-09T17:41:52.354Z [INFO] : Connected to Redis
+2025-03-09T17:41:52.358Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:41:53.784Z [INFO] : Connected to MongoDB
+2025-03-09T17:41:53.788Z [INFO] : Connected to Redis
+2025-03-09T17:41:53.794Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:41:54.934Z [INFO] : Connected to MongoDB
+2025-03-09T17:41:54.938Z [INFO] : Connected to Redis
+2025-03-09T17:41:54.943Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:41:58.455Z [INFO] : Connected to MongoDB
+2025-03-09T17:41:58.460Z [INFO] : Connected to Redis
+2025-03-09T17:41:58.464Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:42:16.435Z [INFO] : Connected to MongoDB
+2025-03-09T17:42:16.441Z [INFO] : Connected to Redis
+2025-03-09T17:42:16.446Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:42:18.717Z [INFO] : Connected to MongoDB
+2025-03-09T17:42:18.721Z [INFO] : Connected to Redis
+2025-03-09T17:42:18.726Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:42:20.100Z [INFO] : Connected to MongoDB
+2025-03-09T17:42:20.105Z [INFO] : Connected to Redis
+2025-03-09T17:42:20.110Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:42:34.989Z [INFO] : Connected to MongoDB
+2025-03-09T17:42:34.993Z [INFO] : Connected to Redis
+2025-03-09T17:42:34.997Z [INFO] : Server is running on http://localhost:3000
+2025-03-09T17:42:37.035Z [INFO] : Connected to MongoDB
+2025-03-09T17:42:37.040Z [INFO] : Connected to Redis
+2025-03-09T17:42:37.044Z [INFO] : Server is running on http://localhost:3000
